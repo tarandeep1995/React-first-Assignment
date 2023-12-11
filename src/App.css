@@ -54,21 +54,22 @@ align-items: center;
 
 .channel-name {
   font-size: 14px;
-  color: #777;
+  color: black;
   margin-left: 50px;
   margin-bottom: 0px;
 
 }
 
 .video-stats {
+  color: black;
   margin-top: 10px;
   font-size: 14px;
-  margin-left: 50px;
+  margin-left: 160px;
   margin-top: 5px;
 
 }
 
 .likes, .views {
   margin-right: 10px;
-  color: #777;
+  color: black;
 }
